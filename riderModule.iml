@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet.Persistence" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet.Persistence/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet.Persistence/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../KlaudWerk.PropertySet/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
